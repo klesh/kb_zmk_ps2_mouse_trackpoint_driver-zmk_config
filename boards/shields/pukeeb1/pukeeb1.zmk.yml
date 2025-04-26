@@ -1,0 +1,10 @@
+file_format: "1"
+id: pukeeb1
+name: pukeeb1
+type: shield
+url: https://github.com/klesh/pukeeb1/
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display

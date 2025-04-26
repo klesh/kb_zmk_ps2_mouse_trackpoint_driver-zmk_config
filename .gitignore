@@ -3,3 +3,10 @@
 
 # Temporary files
 keymap_img/keymap.yaml
+
+zephyr/
+zmk/
+kb_zmk_ps2_mouse_trackpoint_driver/
+.west/
+
+build/
